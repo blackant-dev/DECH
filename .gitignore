@@ -1,0 +1,9 @@
+# .gitignore
+/ckpt*
+/LogFiles
+/hashBank
+/lion
+/ckpt_copy_NIGHT
+/checkpoints*
+/utils_expermients
+/BackUPHashCode
